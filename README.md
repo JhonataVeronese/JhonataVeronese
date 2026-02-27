@@ -13,11 +13,9 @@ I design and build scalable SaaS platforms, APIs and microservices with strong f
 
 ### 🚀 About me
 
-* 🔭 Currently building products at **Plin Condominios**
 * 🧠 SaaS-oriented developer with experience creating multi-tenant platforms and business systems
 * 🏗️ Strong background in **Clean Architecture, SOLID and scalable backend design**
 * ⚙️ Experienced with **APIs, integrations, message brokers and distributed systems**
-* 👯 Collaborating on **EasyDots**
 * 👨‍💻 All projects → **https://github.com/JhonataVeronese**
 * 📫 Contact → **[jhonataveronese@gmail.com](mailto:jhonataveronese@gmail.com)**
 
